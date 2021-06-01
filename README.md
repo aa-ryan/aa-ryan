@@ -2,7 +2,16 @@
 
 
 - 🔭 I’m currently working with Java.
-- 🌱 I’m currently learning FASTai, Rust.
+- 🌱 I’m currently learning FASTai, Rust 🦀.
 - 👯 I’m looking to collaborate on CTFs.
 - 📫 How to reach me: aryansinha6363@gmail.com
 - ⚡ Fun fact: I make Code Coffee irl.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aa-ryan&no-bg=true&theme=monokai&rank=SECRET,SSS,SS,S,AA,A,B&row=3&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Aryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa-ryan&count_private=true&include_all_commits=true&theme=dracula)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aa-ryan&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+

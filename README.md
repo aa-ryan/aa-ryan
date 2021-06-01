@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Aryan](aa-ryan.github.io)
+### Hi there 👋, I'm [Aryan](https://aa-ryan.github.io)
 
 
 - 🔭 I’m currently working with Java.

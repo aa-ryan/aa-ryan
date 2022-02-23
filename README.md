@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with Java.
 - 🌱 I’m currently learning Ai, Rust 🦀.
 - 👯 I’m looking to collaborate on CTFs.
-- 📫 How to reach me: aryansinha6363@gmail.com
+- 📫 How to reach me: aryan.2023y@gmail.com
 - ⚡ Fun fact: I make Code Coffee irl.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aa-ryan&no-bg=true&theme=monokai&rank=SECRET,SSS,SS,S,AA,A,B)

@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I make Code Coffee irl.
 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aa-ryan&layout=compact&langs_count=8&theme=onedark&hide=jupyter%20notebook)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aa-ryan&no-bg=true&theme=monokai&rank=SECRET,SSS,SS,S,AA,A,B)

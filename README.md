@@ -9,7 +9,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aa-ryan&layout=compact&langs_count=8&theme=onedark&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aa-ryan&layout=compact&langs_count=8&theme=onedark)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aa-ryan&no-bg=true&theme=monokai&rank=SECRET,SSS,SS,S,AA,A,B)
 

@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with Python, Java.
 - 🌱 I’m currently learning ML/DL.
 - 👯 I’m looking to collaborate on CTFs.
-- 📫 How to reach me: aryan.2023y@gmail.com
+- 📫 How to reach me: mail9aryan@gmail.com
 - ⚡ Fun fact: I make Code Coffee irl.
 
 

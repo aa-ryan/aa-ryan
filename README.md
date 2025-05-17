@@ -1,8 +1,7 @@
 ### Hello there 👋, I'm [Aryan](https://aa-ryan.github.io)
 
 
-- 🔭 I’m currently working with Python, Java.
-- 🌱 I’m currently learning ML/DL.
+- 🌱 I’m currently working in CyberSec was a ML enthusiast.
 - 👯 I’m looking to collaborate on CTFs.
 - 📫 How to reach me: mail9aryan@gmail.com
 - ⚡ Fun fact: I make Code Coffee irl.

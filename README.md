@@ -1,4 +1,4 @@
-### Hello there 👋, I'm [Aryan](https://aa-ryan.github.io)
+### Hello there 👋, I'm Aryan
 
 
 - 🌱 I’m currently working in CyberSec was a ML enthusiast.
@@ -6,7 +6,8 @@
 - 📫 How to reach me: mail9aryan@gmail.com
 - ⚡ Fun fact: I make Code Coffee irl.
 
-
+### Visitors Count
+![:name](https://count.getloli.com/get/@aa-ryan)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aa-ryan&layout=compact&langs_count=8&theme=onedark)
 
